@@ -1,0 +1,5 @@
+{
+  "name": "AI Monthly Budget Analyzer",
+  "description": "An intelligent budget calculator that analyzes your monthly income and expenses to provide a clear financial summary and personalized tips. Input your income, location, and expenses, and the app will calculate your remaining balance and offer AI-powered insights to help you manage your finances better.",
+  "requestFramePermissions": []
+}
